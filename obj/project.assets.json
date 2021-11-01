@@ -7067,11 +7067,12 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7146,23 +7147,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nardi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\TREINAMENTO13\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nardi\\source\\repos\\ComercioLP\\ComercioLP\\ComercioLP.csproj",
+      "projectUniqueName": "C:\\projetos\\UpcomercioLP\\ComercioLP.csproj",
       "projectName": "ComercioLP",
-      "projectPath": "C:\\Users\\nardi\\source\\repos\\ComercioLP\\ComercioLP\\ComercioLP.csproj",
-      "packagesPath": "C:\\Users\\nardi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nardi\\source\\repos\\ComercioLP\\ComercioLP\\obj\\",
+      "projectPath": "C:\\projetos\\UpcomercioLP\\ComercioLP.csproj",
+      "packagesPath": "C:\\Users\\TREINAMENTO13\\.nuget\\packages\\",
+      "outputPath": "C:\\projetos\\UpcomercioLP\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nardi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TREINAMENTO13\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
