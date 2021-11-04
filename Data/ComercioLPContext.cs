@@ -15,7 +15,7 @@ namespace ComercioLP.Data
         }
 
         public DbSet<Departament> Departament { get; set; }
-        public DbSet<Vendedor> vendedor { get; set; }
+        public DbSet<Vendedor> Vendedor { get; set; }
         public DbSet<VendasRecord> VendasRecord { get; set; }
     }
 }

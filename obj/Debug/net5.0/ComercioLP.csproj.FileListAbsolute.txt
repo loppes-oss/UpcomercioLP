@@ -300,3 +300,5 @@ C:\projetos\UpcomercioLP\obj\Debug\net5.0\ComercioLP.RazorTargetAssemblyInfo.cs
 C:\projetos\UpcomercioLP\obj\Debug\net5.0\ComercioLP.Views.pdb
 C:\projetos\UpcomercioLP\obj\Debug\net5.0\ComercioLP.csproj.CopyComplete
 C:\projetos\UpcomercioLP\obj\Debug\net5.0\ComercioLP.genruntimeconfig.cache
+C:\projetos\UpcomercioLP\obj\Debug\net5.0\Razor\Views\Index.cshtml.g.cs
+C:\projetos\UpcomercioLP\obj\Debug\net5.0\Razor\Views\Vendedor\Index.cshtml.g.cs
